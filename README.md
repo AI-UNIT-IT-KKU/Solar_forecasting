@@ -114,8 +114,8 @@ A **Flask-based interactive web app** allows users to:
 
 ##  Acknowledgment
 
-> We would like to express our sincere gratitude to our supervisor  
-> **[Eng. Mohammed Mohana ](https://[[(https://www.linkedin.com/in/mohdmohana/)]([https://www.linkedin.com/in/njoud-abdulaziz-26a47b208/](https://www.linkedin.com/in/mohdmohana/))])**,  
+> We would like to express our sincere gratitude to our supervisor
+> [Mohammed Mohana]([https://www.linkedin.com/in/nejood-bin-eshaq]) 
 > for his constant support, patience, and motivation throughout this project.  
 > Despite his busy schedule, he always found time to provide guidance, share insights, and encourage us to dive deeper into new technical areas.  
 > His mentorship not only made this project possible but also inspired us to pursue excellence in the field of **AI and renewable energy**.
