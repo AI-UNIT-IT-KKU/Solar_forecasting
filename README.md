@@ -91,7 +91,7 @@ Cyclical encoding ensures smooth time transitions:
 
 | Visualization | Description |
 |----------------|-------------|
-| ![corr](corr.png) | Correlation heatmap between major features |
+| ![corr](solar_studio/corr.png) | Correlation heatmap between major features |
 | ![relationship_features](relationship_features.png) | Relationship between features and target |
 | ![distribution_of_active_power_during_hours](distribution_of_active_power_during_hours.png) | Distribution of active power by time of day |
 | ![visula_part_of_day_power](visula_part_of_day_power.png) | Power production pattern throughout the day |
