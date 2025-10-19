@@ -110,4 +110,30 @@ A **Flask-based interactive web app** allows users to:
 - Generate instant predictions from the trained model.
 - Automatically reset the page after refresh for a clean interface.
 
-**Sample Output:**
+---
+
+##  Acknowledgment
+
+> We would like to express our sincere gratitude to our supervisor  
+> **[ Eng. Mohammed Mohana ——— (https://(https://www.linkedin.com/in/mohdmohana/))]**,  
+> for his constant support, patience, and motivation throughout this project.  
+> Despite his busy schedule, he always found time to provide guidance, share insights, and encourage us to dive deeper into new technical areas.  
+> His mentorship not only made this project possible but also inspired us to pursue excellence in the field of **AI and renewable energy**.
+
+---
+
+##  Author
+
+ **Nejood A. Bin Eshaq**  
+MSc in Computer Science — King Khalid University  
+🔗 [LinkedIn Profile](https://[[www.linkedin.com/in/nejood-bin-eshaq](https://www.linkedin.com/in/njoud-abdulaziz-26a47b208/)])
+
+---
+
+## 🧩 Technologies
+
+`Python` • `LightGBM` • `XGBoost` • `Pandas` • `NumPy` • `Matplotlib` • `Flask` • `Scikit-Learn`
+
+---
+
+⭐ **If you find this project useful, please give it a star!**
